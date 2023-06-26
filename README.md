@@ -20,3 +20,7 @@ You can click the Preview link to take a look at your changes.
 - ### 📫 How to reach me ...
 > *Twitter*: https://twitter.com/AhmadDzuizz.  
 > *YouTube*: https://www.youtube.com/c/DzuizzBelajarCodingOlimpiadeKomputer.  
+
+- ### My Progress
+- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dzuizz&show_icons=true&layout=compact" 
+/></p>
