@@ -1,34 +1,52 @@
-### 👋 Who am I?
-Hello! I'm **Ahmad Dzuizz Annajib**, a dedicated and enthusiastic secondary 1 student at [NUS High School of Math & Science](https://www.nushigh.edu.sg/). My journey in **programming** and **problem-solving** began at the age of 4, and since then, my passion has only grown. Discover more about my journey and projects on my website: [dzuizz.com](https://dzuizz.com/).
+# Ahmad Dzuizz Annajib
 
-### 👀 What am I interested in?
-- **Competitive Programming**: Actively training for the **Informatics Olympiad**; regularly participating in contests on platforms like CodeBreaker and Kattis.
-- **Web Development**: Developing skills in various web frameworks; focusing on *user experience* and *design psychologies* to enhance my projects, showcased on [dzuizz.com](https://dzuizz.com).
+## 👋 About Me
+Hello! I'm **Ahmad Dzuizz Annajib**, a passionate secondary 1 student at [NUS High School of Math & Science](https://www.nushigh.edu.sg/). My journey in programming and problem-solving began at the age of 4, and I've been captivated by the world of technology ever since.
 
-### 🌱 What am I learning?
-- **Languages**: Proficient in **C++**, **Python**, **HTML&CSS**, and **Javascript**. Always keen on learning more.
-- **Exploring New Horizons**: Delving into the realms of functional programming languages like **Haskell** and experimenting with unique languages such as **Brainf\*ck**.
+🌐 **Website**: [dzuizz.com](https://dzuizz.com/)
 
-### 📫 How to reach me ...
-- **Twitter**: Follow my coding journey on [Twitter](https://twitter.com/AhmadDzuizz).
-- **YouTube**: Watch my tutorials and competition experiences on [YouTube](https://www.youtube.com/c/DzuizzBelajarCodingOlimpiadeKomputer).
+## 🚀 Interests & Skills
 
-### 📈 My Progress
+### 💻 Competitive Programming
+- Actively training for the **Informatics Olympiad**
+- Regular participant in contests on platforms like CodeBreaker and Kattis
+
+### 🌈 Web Development
+- Focusing on user experience and design psychology
+- Building projects showcased on [dzuizz.com](https://dzuizz.com)
+
+### 🛠️ Programming Languages
+- Proficient: C++, Python, HTML & CSS, JavaScript
+- Exploring: Haskell, Brainf*ck
+
+## 🌱 Current Learning Goals
+- Deepening knowledge in competitive programming algorithms
+- Expanding web development skills with modern frameworks
+- Exploring functional programming paradigms
+
+## 🏆 Achievements
+- **Gold Medal** in AIO 2023 (Australian Informatics Olympiad)
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dzuizz&show_icons=true&theme=radical&line_height=27" alt="Ahmad's GitHub Stats" />
 </p>
 
-### 🏆 Achievements
-- **Gold in AIO 2023 (Australian Informatics Olympiad)**
+## 🛠️ Tools & Technologies
+- **IDEs**: Visual Studio Code, Neovim
+- **Version Control**: Git, GitHub
+- **Web Technologies**: HTML, CSS, JavaScript
 
-### 📚 Resources and Tools
-- **IDEs**: Visual Studio Code, Neovim.
+## 📫 Connect with Me
+- 🐦 **Twitter**: [@AhmadDzuizz](https://twitter.com/AhmadDzuizz)
+- 📺 **YouTube**: [Dzuizz Belajar Coding Olimpiade Komputer](https://www.youtube.com/c/DzuizzBelajarCodingOlimpiadeKomputer)
+- 💼 **LinkedIn**: [dzuizz](https://www.linkedin.com/in/dzuizz/)
+- 📧 **Email**: [ahmad.dzuizz.annajib@gmail.com](mailto:ahmad.dzuizz.annajib@gmail.com)
 
-### 🤝 Connect with Me
-- **LinkedIn**: [dzuizz](https://www.linkedin.com/in/dzuizz/)
-- **GitHub**: [My Projects](https://github.com/dzuizz)
-- **Email**: [ahmad.dzuizz.annajib@gmail.com](mailto:ahmad.dzuizz.annajib@gmail.com)
+## 🤝 Open for Collaboration
+I'm always excited to work on innovative projects and solve challenging problems. If you have any ideas or opportunities, feel free to reach out!
 
 ---
 
-*Let's code, create, and collaborate to solve the puzzles of tomorrow!*
+<p align="center"><em>Coding the future, one algorithm at a time! 🚀</em></p>
