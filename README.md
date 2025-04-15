@@ -1,52 +1,45 @@
-# Ahmad Dzuizz Annajib
-
-## 👋 About Me
-Hello! I'm **Ahmad Dzuizz Annajib**, a passionate secondary 1 student at [NUS High School of Math & Science](https://www.nushigh.edu.sg/). My journey in programming and problem-solving began at the age of 4, and I've been captivated by the world of technology ever since.
-
-🌐 **Website**: [dzuizz.com](https://dzuizz.com/)
-
-## 🚀 Interests & Skills
-
-### 💻 Competitive Programming
-- Actively training for the **Informatics Olympiad**
-- Regular participant in contests on platforms like CodeBreaker and Kattis
-
-### 🌈 Web Development
-- Focusing on user experience and design psychology
-- Building projects showcased on [dzuizz.com](https://dzuizz.com)
-
-### 🛠️ Programming Languages
-- Proficient: C++, Python, HTML & CSS, JavaScript
-- Exploring: Haskell, Brainf*ck
-
-## 🌱 Current Learning Goals
-- Deepening knowledge in competitive programming algorithms
-- Expanding web development skills with modern frameworks
-- Exploring functional programming paradigms
-
-## 🏆 Achievements
-- **Gold Medal** in AIO 2023 (Australian Informatics Olympiad)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzuizz&show_icons=true&theme=radical&line_height=27" alt="Ahmad's GitHub Stats" />
-</p>
-
-## 🛠️ Tools & Technologies
-- **IDEs**: Visual Studio Code, Neovim
-- **Version Control**: Git, GitHub
-- **Web Technologies**: HTML, CSS, JavaScript
-
-## 📫 Connect with Me
-- 🐦 **Twitter**: [@AhmadDzuizz](https://twitter.com/AhmadDzuizz)
-- 📺 **YouTube**: [Dzuizz Belajar Coding Olimpiade Komputer](https://www.youtube.com/c/DzuizzBelajarCodingOlimpiadeKomputer)
-- 💼 **LinkedIn**: [dzuizz](https://www.linkedin.com/in/dzuizz/)
-- 📧 **Email**: [ahmad.dzuizz.annajib@gmail.com](mailto:ahmad.dzuizz.annajib@gmail.com)
-
-## 🤝 Open for Collaboration
-I'm always excited to work on innovative projects and solve challenging problems. If you have any ideas or opportunities, feel free to reach out!
+###### Ahmad Dzuizz Annajib
 
 ---
 
-<p align="center"><em>Coding the future, one algorithm at a time! 🚀</em></p>
+> _"The Indonesian junior high programmer based in [NUS High School of Math & Science](https://www.nushigh.edu.sg/), aiming for SGP IOI Team! 💪"_
+> Accolades: **GOLD** NOI'25 ("Singapore" National Olympiad in Informatics); **GOLD** AIO'25 (Australian Informatics Olympiad);
+
+**More about me @ my website**: [dzuizz.com](https://dzuizz.com/)
+
+---
+
+> Hi, I'm just a Singapore student who likes to use his laptop a bit more than others!
+
+For what, you may ask?
+
+- **Competitive Programming (CP)** - actively training
+- **Web Development** - regularly experimenting
+- **Game Development** - a very interesting topic I have not explored enough!
+
+Some of the **tools** & languages I am comfortable with using:
+
+- C++ -> for CP
+- Python -> for random fun stuff
+- HTML & CSS + JS -> website-building starter
+- React / NextJS + TailwindCSS -> my go-to website tech stack
+
+How I code:
+
+- IDEs: NeoVim 🔥 -> Lua ftw
+- Version Control: Git, Github, Notes (manual :3)
+
+---
+
+_Connect with me!_
+
+- @ Twitter/X: [@AhmadDzuizz](https://x.com/AhmadDzuizz)
+- @ YouTube (yes, I have a channel): [Dzuizz Belajar Coding Olimpiade Komputer](https://www.youtube.com/c/DzuizzBelajarCodingOlimpiadeKomputer)
+- @ LinkedIn: [dzuizz](https://www.linkedin.com/in/dzuizz/)
+- @ G/Email: [ahmad.dzuizz.annajib@gmail.com](mailto:ahmad.dzuizz.annajib@gmail.com)
+
+If you have any ideas or opportunities I could be a part of, feel free to reach out! I would always love to work on innovative projects and solve their challenging problems together.
+
+---
+
+<p align="center">That's me signing off, and I'll see you... next time!</p>
