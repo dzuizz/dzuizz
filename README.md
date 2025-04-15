@@ -3,13 +3,14 @@
 ---
 
 > _"The Indonesian junior high programmer based in [NUS High School of Math & Science](https://www.nushigh.edu.sg/), aiming for SGP IOI Team! 💪"_
+>
 > Accolades: **GOLD** NOI'25 ("Singapore" National Olympiad in Informatics); **GOLD** AIO'25 (Australian Informatics Olympiad);
 
 **More about me @ my website**: [dzuizz.com](https://dzuizz.com/)
 
 ---
 
-> Hi, I'm just a Singapore student who likes to use his laptop a bit more than others!
+> Hi 👋, I'm just a Singapore student who likes to use his laptop a bit more than others!
 
 For what, you may ask?
 
