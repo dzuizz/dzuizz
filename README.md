@@ -1,6 +1,9 @@
-### Hii :D
+### <b align="center">👋 I'm Dzuizz!</h1>
 
-*Who am I?* I'm Dzuizz, an Indonesian kid currently studying in NUS High School of Math and Science, Singapore.
+---
+<i align="center">Indonesian Blood. Singapore Brains from NUS High School of Math and Science.</i>
+
+---
 
 *What am I currently working on?* Now, I'm focusing on honing my Competitive Programming skills;
   but building websites and exploring cybersecurity spaces are just some of my sidequests :D
