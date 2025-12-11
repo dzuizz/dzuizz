@@ -1,15 +1,19 @@
-### <b align="center">👋 I'm Dzuizz!</h1>
+# 👋 Hi, I'm Dzuizz
+_Competitive Programmer ⋅ Web Developer_
+
+I'm an Indonesian-born Singapore-built student currently studying in [NUS High School of Math and Science](https://www.nushigh.edu.sg)
+
+# 🐥 I'm currently working on:
+- Honing my **Competitive Programmer** skills
+- Exploring alternate fields in Computer Science including **Cybersecurity** in CTFs and UI/UX design psychology
+
+# ⚒️ Some tools I use:
+<img src="https://skillicons.dev/icons?i=cpp,nextjs,vercel,tailwind,git,neovim" />
+
+# 📬 How can you reach me?
+- **Email**: [ahmad.dzuizz.annajib@gmail.com](mailto:ahmad.dzuizz.annajib@gmail.com)  
+- **LinkedIn**: [dzuizz](https://www.linkedin.com/in/dzuizz/)  
+- **X / Twitter**: [@AhmadDzuizz](https://x.com/AhmadDzuizz)
 
 ---
-<i align="center">Indonesian Blood. Singapore Brains from NUS High School of Math and Science.</i>
-
----
-
-*What am I currently working on?* Now, I'm focusing on honing my Competitive Programming skills;
-  but building websites and exploring cybersecurity spaces are just some of my sidequests :D
-
-*What tools do I use?* C++, NextJS + Vercel
-
-*How can you reach me?* Feel free to reach out through my personal email [ahmad.dzuizz.annajib@gmail.com](mailto:ahmad.dzuizz.annajib@gmail.com) or through some of my social media profiles at:
-- @ LinkedIn: [dzuizz](https://www.linkedin.com/in/dzuizz/)
-- @ Twitter/X: [@AhmadDzuizz](https://x.com/AhmadDzuizz)
+<p align="right">~ @dzuizz</p>
