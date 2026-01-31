@@ -26,7 +26,7 @@ ideas into practical computation systems.
 **Languages**
 1. C++
 2. Python
-3. Java
+3. Java/Kotlin
 
 **(Web/App) Frameworks**
 1. NextJS w/ TailwindCSS - React-based *web framework*
