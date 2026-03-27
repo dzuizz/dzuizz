@@ -23,10 +23,12 @@ ideas into practical computation systems.
 
 ## WHAT I use
 
-**Languages**
-1. C++
-2. Python
-3. Java/Kotlin
+**Languages I can speak**
+1. English
+2. C++
+3. Python
+4. Java/Kotlin
+5. Malay/Indonesian
 
 **(Web/App) Frameworks**
 1. NextJS w/ TailwindCSS - React-based *web framework*
