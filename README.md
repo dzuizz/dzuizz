@@ -53,9 +53,13 @@ ideas into practical computation systems.
 
 ## Github Stats
 
-<img style="height: 150px" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=dzuizz&show_icons=true&text_color=EB3232&icon_color=EB3232&title_color=EB3232&bg_color=00000000"> 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=cj5716&label=Profile%20views&style=flat&color=EB3232" alt="cj5716" />
+  <img style="height: 150px" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=dzuizz&show_icons=true&text_color=EB3232&icon_color=EB3232&title_color=EB3232&bg_color=00000000">
+  <img style="height: 150px" src="https://streak-stats.demolab.com?user=dzuizz&fire=EB3232" alt="dzuizz's GitHub Stats">
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dzuizz&label=Profile%20views&style=flat&color=EB3232" alt="dzuizz" />
 </p>
 
 ---
