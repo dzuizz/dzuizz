@@ -53,7 +53,7 @@ ideas into practical computation systems.
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzuizz)](https://github.com/anuraghazra/github-readme-stats)
+<img style="height: 150px" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=dzuizz&show_icons=true&text_color=EB3232&icon_color=EB3232&title_color=EB3232&bg_color=00000000"> 
 
 ---
 
